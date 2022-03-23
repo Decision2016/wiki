@@ -6,3 +6,5 @@
     - Vue
       - [Vue3.0 生命周期](/Frontend/Vue/Vue3.0%20生命周期.md)
       - [Vue3.0 路由配置](/Frontend/Vue/Vue3.0%20路由配置.md)
+  - Rust
+      - [Rust学习资料](/Rust/Rust学习资料.md)
