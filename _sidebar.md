@@ -10,3 +10,4 @@
       - [Rust学习资料](/Rust/Rust学习资料.md)
   - Blockchain
       - [Cardano生态相关](/Blockchain/Cardano生态相关.md)
+	  - [可验证随机函数](/Blockchain/可验证随机函数.md)
